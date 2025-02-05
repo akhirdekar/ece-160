@@ -1,8 +1,9 @@
-# ECE160-Final-Project
+# ECE 160: Final Project
+Created by [Sean Ridel] (https://github.com/SeanRidel); and [Abhijeet Khirdekar] (https://github.com/akhirdekar);
 
-// Maze Game in C //
+__The Maze Game__
 
-Welcome to the Maze Game! This program will determine whether a user-inputted maze is solvable or not. If solvable, the program will trace out the quickest path from a given start to a given finish point. 
+Welcome to the Maze Game! This program will determine whether a user-inputted maze is solvable or not. If solvable, the program will trace the quickest path from a given start to a given finish point. 
 
 Input: 
 The user will provide the dimensions of the maze (length and width = rows x columns), a description of the maze's interior using a grid of characters (0 for path space, anything else for wall space), and a start Point (S) and finish points (F) on the exterior walls (row x column).
@@ -11,11 +12,12 @@ Output:
 If solvable, the program will output a printed maze with the path traced out (using a dot).
 If unsolvable, the program will output a message indicating that the maze is impossible to solve and to enter another maze.
 
-Upon compiling, the program will prompt the user to enter a (1) to solve a maze or (2) to generate a random maze.
-After hitting 1, you the user will be prompted to enter the maze dimensions. The maze must be at least 3x3.
-e.g. (15 rows x 15 columns)
-15
-15
+Upon compiling, the program will prompt the user to enter (1) to solve a maze or (2) to generate a random maze.
+If the user selects (1), they will then be prompted to enter the maze dimensions.
+The maze must be at least 3x3.
+e.g. (3 rows x 3 columns)
+3
+3
 
 Next, the user will be asked to input their own maze. This part can be quite tedious, so we've **attached a separate README.md** file called **MAZEINPUT.MD** in this repository with premade mazes for you to copy and paste to try out yourself.
 
