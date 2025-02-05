@@ -27,7 +27,8 @@ If you select (2), you will be prompted to enter the dimensions of a maze and be
 
 A [website](https://keesiemeijer.github.io/maze-generator/#generate) that inspired this project.
 
-**CONSTRAINTS**
+__CONSTRAINTS__
+
 This program includes two main components: maze solving and maze generation
 
 Maze Solver:
