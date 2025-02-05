@@ -1,5 +1,5 @@
 # ECE 160: Final Project
-Created by [Sean Ridel] (https://github.com/SeanRidel); and [Abhijeet Khirdekar] (https://github.com/akhirdekar);
+Created by [Sean Ridel](https://github.com/SeanRidel) and [Abhijeet Khirdekar](https://github.com/akhirdekar).
 
 __The Maze Game__
 
@@ -25,8 +25,7 @@ Lastly, the solver will prompt you to enter a starting point (S) and a finish po
 
 If you select (2), you will be prompted to enter the dimensions of a maze and be given an output of two mazes. The second maze is the one you're interested in!
 
-An external tool that inspired this project: 
-https://keesiemeijer.github.io/maze-generator/#generate
+A [website](https://keesiemeijer.github.io/maze-generator/#generate) that inspired this project.
 
 **CONSTRAINTS**
 This program includes two main components: maze solving and maze generation
