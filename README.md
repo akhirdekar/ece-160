@@ -1,5 +1,5 @@
 # ECE 160: Final Project
-Created by [Sean Ridel](https://github.com/SeanRidel) and [Abhijeet Khirdekar](https://github.com/akhirdekar).
+Created by [Sean Ridel](https://github.com/SeanRidel) and [Abhijeet Khirdekar](https://github.com/akhirdekar)
 
 __The Maze Game__
 
